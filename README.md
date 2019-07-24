@@ -10,20 +10,20 @@ We've already designed 2 rocket prototypes, but we need your help to design and 
 
 U-1
 The U-1 Rocket is light weight, agile and pretty safe, but can only carry a total of 18 tonnes of cargo. It costs $100 Million to build and weighs 10 tonnes. It has a slim chance of crashing while landing but a bigger chance of exploding when launching, both chances depend on the amount of cargo carried in the rocket.
-Rocket cost = $100 Million
-Rocket weight = 10 Tonnes
-Max weight (with cargo) = 18 Tonnes
-Chance of launch explosion = 5% * (cargo carried / cargo limit)
-Chance of landing crash = 1% * (cargo carried / cargo limit)
+Rocket cost = $100 Million 
+Rocket weight = 10 Tonnes 
+Max weight (with cargo) = 18 Tonnes 
+Chance of launch explosion = 5% * (cargo carried / cargo limit) 
+Chance of landing crash = 1% * (cargo carried / cargo limit) 
 
 
 U-2
 The U2 Rocket heavier than the U-1 but much safer and can carry a lot more cargo; to a total of 29 tonnes. However, it costs $120 Million to build and weighs 18 tonnes. It has a greater chance of crashing while landing than while launching, but just like the U-1 both chances depend on the amount of cargo carried.
-Rocket cost = $120 Million
-Rocket weight = 18 Tonnes
-Max weight (with cargo) = 29 Tonnes
-Chance of launch explosion = 4% * (cargo carried / cargo limit)
-Chance of landing crash = 8% * (cargo carried / cargo limit)
+Rocket cost = $120 Million 
+Rocket weight = 18 Tonnes 
+Max weight (with cargo) = 29 Tonnes 
+Chance of launch explosion = 4% * (cargo carried / cargo limit) 
+Chance of landing crash = 8% * (cargo carried / cargo limit) 
 
 
 The mission consists of 2 phases:
